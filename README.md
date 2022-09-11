@@ -9,9 +9,9 @@ I'm a Software Engineer
 - 😊 Pronouns: He/him
 - 💡  I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Nodejs.
-- 🐱‍💻 Fun fac: I've played around with C, had an abusive relationship but we both decided to settle out of court. Might just give her a trial sometime in the future.😉
+- 🐱‍💻 Fun fac: I've played around with C, had an abusive relationship but we both decided to settle out of the compiler. Might just give her a trial sometime in the future.😉
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Back-end Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing osamuyia1@gmail.com.
 
 ---
