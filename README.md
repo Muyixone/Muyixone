@@ -8,11 +8,13 @@ I'm a Software Engineer and Technical Writer
 
 - 😊 Pronouns: He/him
 - 💡  Alumnus AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💻 Alx Software Engineering student, cohort #21.
 - 🌱 My tech stack Javascript and NodeJs.
-- 🐱‍💻 Fun fact: I've played around with C, had an abusive relationship but we both decided to settle out of the compiler. Might just give her a trial sometime in the future.😉
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 🐱‍💻 Fun fact: I've played around with C, had an abusive relationship, but we both decided to settle out of the compiler. Might just give her a trial sometime in the future.😉
+- 😊 I’m open to collaborate on open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back-end Engineer(Intern or Junior level), Technical Writing
-- 📫 You can [view my resume](https://drive.google.com/drive/folders/1ZGSfojOLV4K6Ac-ldoOuqZ2RZpnUI4PZ) and contact me by emailing muyi.alarezomo@gmail.com.
+- 📖 Checkout out my [Technical articles](https://dev.to/osamuyi)
+- 📫 You can [view my resume](https://drive.google.com/file/d/1lKBjp_HAbCq6gyZyreGM3XMcrcc2tnTb/view?usp=sharing) and contact me by emailing muyi.alarezomo@gmail.com.
 
 ---
 
