@@ -13,7 +13,7 @@ I'm a Software Engineer and Technical Writer
 - 🐱‍💻 Fun fact: I've played around with C, had an abusive relationship, but we both decided to settle out of the compiler. Might just give her a trial sometime in the future.😉
 - 😊 I’m open to collaborate on open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back-end Engineer(Intern or Junior level), Technical Writing
-- 📖 Checkout out my [Technical articles](https://dev.to/osamuyi)
+- 📖 Checkout my [Technical articles](https://dev.to/osamuyi)
 - 📫 You can [view my resume](https://drive.google.com/file/d/1lKBjp_HAbCq6gyZyreGM3XMcrcc2tnTb/view?usp=sharing) and contact me by emailing muyi.alarezomo@gmail.com.
 
 ---
